@@ -12,7 +12,7 @@ I'm Alexis, a self-taught Data Analyst with expertise in analysis and reporting,
 
 
 ## Projects
-Here's my portfolio! You can see a couple examples of my work [here.(https://github.com/atpatton13)]
+Here's my portfolio! You can see a couple examples of my work [here.](https://github.com/atpatton13)
 
 
 ## Tools
@@ -25,4 +25,4 @@ Here's my portfolio! You can see a couple examples of my work [here.(https://git
 
 ## Connect with Me
 
-●[LinkedIn(https://www.linkedin.com/in/alexis-patton-644097166/)]
+●[LinkedIn](https://www.linkedin.com/in/alexis-patton-644097166/)
