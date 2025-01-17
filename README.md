@@ -1,0 +1,16 @@
+## Hi there! 
+
+I'm Alexis, a self-taught Data Analyst with expertise in analysis and reporting, ETL and data modeling.
+
+●	Ecommerce Background with 3+ years of experience 
+●	Transitioned to Data Analytics in September of 2022, now 2+ years of experience
+●	I love patterns, numbers, and learning new skills. Through eLearning, I taught myself SQL, Tableau, PowerBi, Power Automate and some Python.
+●	I am the “excel guy” at my work, when someone breaks a formula or needs some help, I’m always the one coming to the rescue 
+
+# Projects
+Here's my portfolio! You can see a couple examples of my work here.
+
+# Tools
+● Language: SQL, Python
+● Database: Google BigQuery, PostgreSQL, MySQL
+● Visualization: Tableau, PowerBI
