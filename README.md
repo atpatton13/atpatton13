@@ -1,3 +1,5 @@
+![Banner of computers and devices showing bar charts and donut graphs.](https://github.com/atpatton13/atpatton13/blob/main/infographics-charts-graphics-diagrams-on-260nw-177377594.webp)
+
 # Hi there! 
 
 I'm Alexis, a self-taught Data Analyst with expertise in analysis and reporting, ETL and data modeling.
