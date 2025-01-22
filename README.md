@@ -14,7 +14,7 @@ I'm Alexis, a self-taught Data Analyst with expertise in analysis and reporting,
 
 
 ## Projects
-Here's my portfolio! You can see a couple examples of my work [here.]((https://github.com/atpatton13/SQL))
+Here's my portfolio! You can see a couple examples of my work [here.](https://github.com/atpatton13/SQL)
 
 
 ## Tools
